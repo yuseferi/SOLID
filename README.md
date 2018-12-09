@@ -14,5 +14,5 @@ SOLID is made up of the first five principles in OOD, it stands for 
 - I - Interface segregation principle
 - D - Dependency inversion principle
 
-read more on my weblog [Explain SOLID Principle by example](http://www.yuseferi.com/en/node/57)
+read more on my weblog [Go through SOLID Principle by example](http://www.yuseferi.com/en/node/57)
 
