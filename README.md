@@ -8,11 +8,11 @@ In object-oriented computer programming, SOLID is a mnemonic acronym for five de
 
 SOLID is made up of the first five principles in OOD, it stands for 
 
-S - Single-responsibility principle
-O - Open-closed principle
-L - Liskov substitution principle
-I - Interface segregation principle
-D - Dependency inversion principle
+- S - Single-responsibility principle
+- O - Open-closed principle
+- L - Liskov substitution principle
+- I - Interface segregation principle
+- D - Dependency inversion principle
 
 read more on my weblog [Explain SOLID Principle by example](http://www.yuseferi.com/en/node/57)
 
